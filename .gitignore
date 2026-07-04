@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# --- C++ ---
+*.o
+*.obj
+*.out
+*.exe
+*.exe~
+*.dSYM/
+
+# --- C# / .NET ---
+bin/
+obj/
+*.user
+*.suo
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
