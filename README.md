@@ -34,7 +34,6 @@ dsa-practice/
 | 1 | Two Sum | LeetCode | Easy | Array, Hash Map | [✓](leetcode/python/0001-two-sum.py) | [✓](leetcode/cpp/0001-two-sum.cpp) | [✓](leetcode/csharp/0001-two-sum.cs) |
 | 2 | Kth Largest Element| Local | Medium | Heaps/Priority Queues, Order Statistics, Complexity Analysis | [✓](leetcode/python/Kth_Largest_Element_in_an_Array.py) | | |
 
-> Update this table as you go. You don't need to solve every problem in all three languages — leave the cell blank or mark it `—` if skipped.
 
 ## 🧭 Conventions
 
